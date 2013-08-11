@@ -10,20 +10,20 @@ __NOTOC__
 {|align=center width="100%" style="border:1px solid #a7d7f9;background:#FFFFFF; -moz-border-radius:10px; margin:1.2em 0 6px 0;"
 |-
 |align=center|<div style="font-size:85%;border:none;margin:0;padding:em;top:em;color:#000">Кижи бүрүзү редакторлап шыдаар ажык энциклопедия</div><div style="font-size:175%;border:none;margin: 0;padding:.1em;top:em;color:#000">[[Википедия|Видибилииномже]] [[Википедия:Моорлаңар|кирип моорлаңар!]]</div>
-<div style="float:center;"><p>[[{{CURRENTYEAR}} чыл|{{CURRENTYEAR}} чылдың]] [[{{CURRENTMONTHNAME}} {{CURRENTDAY}}|{{CURRENTMONTHNAME}} {{CURRENTDAY}}]], [[{{CURRENTDAYNAME}}|{{CURRENTDAYNAME}}]]</p><div style="font-size:85%;border:none;margin:0;padding:em;top:em;color:#000">[[Википедия|Видибилииномның]] [[Тыва дыл|Тыва дыл]] кырында бижээн '''{{NUMBEROFARTICLES}}''' чүүл бар.</div>
+<div style="float:center;"><p>[[{{CURRENTYEAR}} чыл|{{CURRENTYEAR}} чылдың]] [[{{CURRENTMONTHNAME}} {{CURRENTDAY}}|{{CURRENTMONTHNAME}} {{CURRENTDAY}}]], [[{{CURRENTDAYNAME}}|{{CURRENTDAYNAME}}]]</p><div style="font-size:85%;border:none;margin:0;padding:em;top:em;color:#000">[[Википедия|Видибилииномның]] [[Тыва дыл]] кырында бижээн '''{{NUMBEROFARTICLES}}''' чүүл бар.</div>
 <div>
 <center>Чаа арынны чаяары:</center>
 <inputbox>
  type=create
  width=40
  bgcolor=#ffffff
- preload=Template:Wp/tyv/Standard content for new page
- editintro=Template:Wp/tyv/Instructions
- default=Wp/tyv/
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
  buttonlabel={{MediaWiki:Createarticle/tyv}}
 </inputbox>
 </div></div>
-|style="background:#F0F8FF"|<big><center>[[Special:PrefixIndex/Wp/tyv|Шупту бижээн чүүлдер мында]]</center></big><br />
+|style="background:#F0F8FF"|<big><center>[[Шупту бижээн чүүлдер мында]]</center></big><br />
 
 {|width="100%"
 |-
