@@ -17,15 +17,15 @@
 
 </poem>
 
-== Основной актерский состав ==
-: {{colorbox|#dfd}} Актёр основного состава
-: {{colorbox|#fdd}} Приглашённый актёр
+== Кол тургузуг актёрлары ==
+: {{colorbox|#dfd}} Кол тургузуг актёрлары
+: {{colorbox|#fdd}} Чалаан актёр
 {| class="wikitable sortable" style="width:100%;"
 |-
-! rowspan="2"| Актер
-! rowspan="2"| Персонаж
-! rowspan="2"| Всего серий
-! colspan="9" class="unsortable"| Сезоны
+! rowspan="2"| Актёр
+! rowspan="2"| Маадыр
+! rowspan="2"| Каш серия
+! colspan="9" class="unsortable"| Сезоннар
 |-
 ! style="width:5%;"| 1
 ! style="width:5%;"| 2
@@ -104,7 +104,7 @@
 | style="background:#dfd; text-align:center;"| '''6'''
 | style="background:#dfd; text-align:center;"| '''3'''
 |-
-| [[Тёрнер, Софи (актриса)|Софи Тёрнер]]
+| [[Тёрнер, Софи|Софи Тёрнер]]
 | Санса Старк
 | 29
 | style="background:#dfd; text-align:center;"| '''9'''
@@ -311,7 +311,6 @@
 | style="background:#fdd; text-align:center;"| 7
 | style="background:#dfd; text-align:center;"| '''1'''
 |}
-
 
 == Сериалда аймактар (бажыңнар) болгаш  төрелдер ==
 ...
