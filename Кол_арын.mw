@@ -1,1 +1,32 @@
-
+{{MainPageLayout
+|border-color = #a7d7f9<!--#DD2211 udmurt red-->
+|bgcolor      = #C6DEFE
+|bgimage      = Bluebg rounded.png
+|bgimage2     = Bluebg rounded2.png
+|middot-color = #6495ed<!--#DD2211 udmurt red-->
+|know-pic     = PL_Wiki_CzyWiesz_ikona.svg
+|news-pic     = PL_Wiki_Aktualnosci_ikona.svg
+|today-pic    = PL_Wiki_Kalendarium_ikona.svg
+|fa-pic       = HSUtvald.svg
+|ga-pic       = HSBra.svg
+|potd-pic     = PL_Wiki_InM_ikona.svg
+|flists-pic   = RU Wiki FLP icon.svg
+|cotw-pic     = Text-x-generic with pencil-2.svg
+|wiki-pic     = W-circle.svg
+|turk-wiki-pic  = HSWPedia.svg
+|wmprj-pic    = Wikimedia-logo-circle.svg
+|enc-pic      = Nuvola apps bookcase Icône HS.svg
+|h1=intro-left
+|h2=intro-center-top
+|h3=intro-right
+|h4=intro-center-bottom
+|l1=fa
+|l2=
+|r1=intro3
+|r2=intro2
+|f1=turk-wiki
+|f2=sisterprojects
+|f3=support
+}}<includeonly>
+[[Аңгылал:Кол арын]]
+</includeonly>
