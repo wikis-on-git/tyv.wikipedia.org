@@ -101,20 +101,20 @@
 |<math>1 \div x</math>
 |'''1'''
 |0.5
-|0.{{overline|3}}
+|0.\overline{3}
 |0.25
 |0.2
-|0.1{{overline|6}} 
-|0.{{overline|142857}}
+|0.1\overline{6} 
+|0.\overline{142857}
 |0.125
-|0.{{overline|1}}
+|0.\overline{1}
 |0.1
 !
-|0.{{overline|09}}
-|0.08{{overline|3}}
-|0.{{overline|076923}}
-|0.0{{overline|714285}}
-|0.0{{overline|6}}
+|0.\overline{09}
+|0.08\overline{3}
+|0.\overline{076923}
+|0.0\overline{714285}
+|0.0\overline{6}
 |-
 |<math>x \div 1</math>
 |'''1'''
