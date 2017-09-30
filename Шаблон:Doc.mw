@@ -1,0 +1,9 @@
+<includeonly>{{doc/begin|{{SUBJECTSPACE}}:{{PAGENAME:{{{1|{{SUBJECTPAGENAME}}/doc}}}}}|editsection={{{editsection|}}}}}
+{{#if:{{{1|}}}|{{#ifexist:{{{1}}}|{{{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}}|{{#ifexist:{{SUBJECTSPACE}}:{{{1}}}|{{{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}}|{{Документилээр|{{{1}}}}}}}}}|{{#ifexist:{{SUBJECTPAGENAME}}/doc|{{{{SUBJECTPAGENAME}}/doc}}|{{Документилээр|{{SUBJECTPAGENAME}}/doc}}}}}}
+{{doc/end}}</includeonly><noinclude>
+{{doc}}
+<!--
+[Rus]: Добавляйте категории и интервики на подстраницу /doc, не сюда!
+[Eng]: Please add categories and interwiki links to the /doc subpage, not here!
+-->
+</noinclude>
