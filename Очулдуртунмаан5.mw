@@ -1,0 +1,4 @@
+<includeonly>{{{{{|safesubst:}}}ifsubst
+|1={{subst:#invoke:Languages|unwrapIW|title={{{title|{{{херек|{{{1}}}}}}}}}|text={{{text|{{{сөзүглел|{{{2|}}}}}}}}}}}
+|2={{#invoke:Languages|getIW|title={{{title|{{{херек|{{{1}}}}}}}}}|text={{{text|{{{сөзүглел|{{{2|}}}}}}}}}|lang={{{lang|{{{дыл|{{{3|}}}}}}}}}|page={{{page|{{{бар|{{{4|}}}}}}}}}|state={{{status|{{{деңнел|{{{5|}}}}}}}}}|nocat={{{nocat|}}}}}
+}}</includeonly><noinclude>{{doc}} <!-- Категории на странице документации. --></noinclude>
