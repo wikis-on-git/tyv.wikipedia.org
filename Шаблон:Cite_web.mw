@@ -1,0 +1,68 @@
+<includeonly><span class="citation" {{#if:{{{ref|}}}|id="{{anchorencode:CITEREF{{{ref}}}}}"}}>{{#if: {{{1|}}}
+  | {{error|{{tl|cite web}} майыктың шупту параметрлери аттыг болур ужурлуг.}}&#32;{{Чүгле чүүлдерде аңгылал|Википедия:Майыктарны шын эвес ажыглаан арыннар:Cite web}}}}<!--
+-->{{#if: {{{title|}}}
+  || {{error|{{code|title{{=}}}} параметрни {{tl|cite web}} майыкка тодарадыр херек.}}&#32;{{Чүгле чүүлдерде аңгылал|Википедия:Майыктарны шын эвес ажыглаан арыннар:Cite web}}}}<!--
+-->{{#if: {{{url|}}}
+  || {{error|{{code|url{{=}}}} параметрни {{tl|cite web}} майыкка тодарадыр херек.}}&#32;{{Чүгле чүүлдерде аңгылал|Википедия:Майыктарны шын эвес ажыглаан арыннар:Cite web}}}}<!--
+-->{{#if: {{{archiveurl|}}}{{{archivedate|}}}
+  | {{#if: {{#if: {{{archiveurl|}}} | {{#if: {{{archivedate|}}} | 1 }} }}
+    || {{color|red|Бир эвес {{tl|cite web}} майыкта параметр киирген болза}} '''archiveurl='''{{color|red|, параметрин база киирген турар ужурлуг}} '''archivedate='''{{color|red|, и наоборот.}}&#32;{{Чүгле чүүлдерде аңгылал|Википедия:Майыктарны шын эвес ажыглаан арыннар:Cite web}}}}
+}}{{#if: {{{author|}}}{{{last|}}}
+  | ''{{#if: {{{authorlink|}}}
+    | [[{{{authorlink}}}|{{#if: {{{last|}}}
+      | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+      | {{#if: {{{coauthors|}}}|{{{author}}}|{{#invoke:String|replace|source={{{author}}}|pattern=^(%[*)(.-[^%.%]])(%]*)$|replace=%1%2%3.|plain=false}}}} <!-- добавление точки если её нет с учётом ссылки -->
+    }}]]
+    | {{#if: {{{last|}}}
+      | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+      | {{#if: {{{coauthors|}}}|{{{author}}}|{{#invoke:String|replace|source={{{author}}}|pattern=^(%[*)(.-[^%.%]])(%]*)$|replace=%1%2%3.|plain=false}}}} <!-- добавление точки если её нет с учётом ссылки -->
+    }}
+  }}{{#if: {{{coauthors|}}} | <nowiki>;</nowiki>&#32;{{#invoke:String|replace|source={{{coauthors}}}|pattern=^(.-)%.?$|replace=%1.|plain=false}}}}''&#32;
+}}{{#if: {{{editor|}}}
+  | {{{editor}}}:&#32;
+}}{{#if: {{{url|}}}
+  | [{{{url}}} {{{title}}}]{{#if: {{{subtitle|}}} | .&#32;<small>{{{subtitle|}}}</small> }}
+}}{{#if: {{{lang|}}}{{{language|}}}
+  | {{#ifexist: Майык:ref-{{{lang|{{{language}}}}}}
+    | {{ref-{{{lang|{{{language}}}}}} }}
+    | &#32;<small>({{{lang|{{{language}}}}}})</small>
+  }}
+}}{{#if: {{{format|}}}
+  | &#32;({{{format}}})
+}}{{#if: {{{website|}}}{{{work|}}}
+  | {{#if: {{{subtitle|}}} | <small>.</small> | . }}&#32;''{{#if: {{{website|}}} | {{{website}}} | {{{work}}} }}''
+}}{{#if: {{{pages|}}}
+  | &#32;{{{pages}}}
+}}{{#switch: {{{deadlink|}}}
+  | = 
+  | none = &#32;{{deadlink}}
+  | &#32;{{deadlink|url={{{url}}}}}
+}}{{#if: {{{publisher|}}}
+  | {{#if: {{{subtitle|}}} | <small>.</small> | . }}&#32;{{#if: {{{location|}}}
+    | {{{location}}}:&#32;
+  }} {{{publisher}}}
+
+}}{{#if: {{{date|}}}{{{datepublished|}}}
+  | &#32;({{HumanizeDate|{{{date|{{{datepublished|}}}}}}|{{{lang|{{{language}}}}}}}})
+  | {{#if: {{{year|}}}
+	| {{#if: {{{month|}}}
+	  | &#32;({{{month}}} {{{year}}})
+	  | &#32;({{{year}}})
+	}}
+  }}
+}}{{#if: {{{subtitle|}}} 
+  | <small>.</small> 
+  | . 
+}}{{#if: {{{doi|}}}
+  | &#32;[[Идентификатор цифрового объекта|doi]]:[http://dx.doi.org/{{{doi|}}} {{{doi}}}].
+}}{{#if: {{{description|}}}
+  | &nbsp;— {{{description}}}.
+}}{{#if: {{{quote|}}}
+  | &nbsp;— «{{{quote}}}».
+}}{{#if: {{{accessdate|}}}
+  | &#32;<small>Хынааны {{#iferror: {{#time: j xg Y | {{{accessdate}}} }} | {{{accessdate}}} }}.</small>
+}}{{#if: {{{archivedate|}}}
+  | &#32;{{архивтээн|{{{archiveurl}}}|{{{archivedate}}}}}
+}}</span></includeonly><noinclude>
+{{doc}}<!-- категории и интервики должны добавляться на страницу документации -->
+</noinclude>
