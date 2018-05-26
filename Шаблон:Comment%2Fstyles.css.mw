@@ -1,0 +1,4 @@
+.ts-comment-commentedText {
+	border-bottom: 1px dotted;
+	cursor: help;
+}
