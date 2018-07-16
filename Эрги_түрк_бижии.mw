@@ -5,66 +5,75 @@
 == Таблица символов ==
 
 {| class="wide"  border="1" cellpadding="5" cellspacing="0"
-|+ Былыргы түүр алпаабыта (классический период)
-! colspan="3"  align="center" | Туттуллуута || colspan="2"  align="center"|Бэлиэлэр || colspan="4"  align="center" | Транслитерация уонна транскрипция	
+|+ Орхон-Эне-Сай үжүглел (делгерээн өйүнде)
+! colspan="3"  align="center" | Ажыглалы || colspan="2" align="center" |Үжүк || colspan="4" align="center" | Кириллик үжүк дүгжүрү болгаш адаары	
 |- align="center"
-| colspan="3" rowspan="4" | аһаҕас дорҕооннор|| colspan="2"|[[Image:Old turkic letter A.png|20px]]|| colspan="2" |A || colspan="2" |{{IPA|/a/}}, {{IPA|/e/}}
+| colspan="3" rowspan="4" | ажык үннер|| colspan="2" |[[Image:Old turkic letter A.png|20px]]|| colspan="2" |А, Э || colspan="2" |{{IPA|/a/}}, {{IPA|/e/}}
 |- align="center"
-| colspan="2" |[[Image:Old turkic letter I.png|20px]]|| colspan="2" |I || colspan="2" |{{IPA|/ɯ/}}, {{IPA|/i/}}, {{IPA|/j/}}
+| colspan="2" |[[Image:Old turkic letter I.png|20px]]|| colspan="2" |Ы, И || colspan="2" |{{IPA|/ɯ/}}, {{IPA|/i/}}, {{IPA|/j/}}
 |- align="center"
-| colspan="2" |[[Image:Old turkic letter O.png|20px]]|| colspan="2" |O || colspan="2" |{{IPA|/u/}}, {{IPA|/o/}}, {{IPA|/w/}}
+| colspan="2" |[[Image:Old turkic letter O.png|20px]]|| colspan="2" |О, У || colspan="2" |{{IPA|/u/}}, {{IPA|/o/}}, {{IPA|/w/}}
 |- align="center"
-| colspan="2" |[[Image:Old turkic letter U.png|20px]]|| colspan="2" |U || colspan="2" |{{IPA|/ø/}}, {{IPA|/y/}}, {{IPA|/w/}}
+| colspan="2" |[[Image:Old turkic letter U.png|20px]]|| colspan="2" |Ө, Ү || colspan="2" |{{IPA|/ø/}}, {{IPA|/y/}}, {{IPA|/w/}}
 |- align="center"
-| rowspan="23" | Бүтэй дорҕооннор|| rowspan="16"  |сочетающиеся|| rowspan="9"  |(¹) — кэлин,<br />(²) — илин<br />аһаҕас дорҕооннору кытта || [[Image:Old turkic letter B1.png|20px]] || [[Image:Old turkic letter B2.png|20px]]||B¹ ||{{IPA|/b/}}|| B²|| {{IPA|/b/}}
+| rowspan="23" | ажык эвес үннер|| rowspan="16" |ажыглалы|| rowspan="9" |(¹) — кадыг,<br />(²) — чымчак<br />ажык үннер биле || [[Image:Old turkic letter B1.png|20px]] || [[Image:Old turkic letter B2.png|20px]]||Б¹ ||{{IPA|/b/}}|| Б²|| {{IPA|/b/}}
 |- align="center"
-| [[Image:Old turkic letter D1.png|20px]] || [[Image:Old turkic letter D2.png|20px]] || D¹|| {{IPA|/d/}}|| D²|| {{IPA|/d/}}
+| [[Image:Old turkic letter D1.png|20px]] || [[Image:Old turkic letter D2.png|20px]] || Д¹|| {{IPA|/d/}}|| Д²|| {{IPA|/d/}}
 |- align="center"
-| [[Image:Old turkic letter G1.png|20px]] || [[Image:Old turkic letter G2.png|20px]] || G¹ ||{{IPA|/g/}}|| G² ||{{IPA|/g/}}
+| [[Image:Old turkic letter G1.png|20px]] || [[Image:Old turkic letter G2.png|20px]] || Г¹ (Ҕ) ||{{IPA|/g/}}|| Г² (Ғ) ||{{IPA|/g/}}
 |- align="center"
-| [[Image:Old turkic letter L1.png|20px]] || [[Image:Old turkic letter L2.png|20px]] || L¹ ||{{IPA|/l/}}|| L² ||{{IPA|/l/}}
+| [[Image:Old turkic letter L1.png|20px]] || [[Image:Old turkic letter L2.png|20px]] || Л¹ ||{{IPA|/l/}}|| Л² ||{{IPA|/l/}}
 |- align="center"
-| [[Image:Old turkic letter N1.png|20px]] || [[Image:Old turkic letter N2.png|20px]] || N¹ ||{{IPA|/n/}}|| N² ||{{IPA|/n/}}
+| [[Image:Old turkic letter N1.png|20px]] || [[Image:Old turkic letter N2.png|20px]] || Н¹ ||{{IPA|/n/}}|| Н² ||{{IPA|/n/}}
 |- align="center"
-| [[Image:Old turkic letter R1.png|20px]] || [[Image:Old turkic letter R2.png|20px]] || R¹ ||{{IPA|/r/}}|| R² ||{{IPA|/r/}}
+| [[Image:Old turkic letter R1.png|20px]] || [[Image:Old turkic letter R2.png|20px]] || Р¹ ||{{IPA|/r/}}|| Р² ||{{IPA|/r/}}
 |- align="center"
-| [[Image:Old turkic letter S1.png|20px]] || [[Image:Old turkic letter S2.png|20px]] || S¹ ||{{IPA|/s/}}||S²|| {{IPA|/s/}}
+| [[Image:Old turkic letter S1.png|20px]] || [[Image:Old turkic letter S2.png|20px]] || С¹ ||{{IPA|/s/}}||С²|| {{IPA|/s/}}
 |- align="center"
-| [[Image:Old turkic letter T1.png|20px]] || [[Image:Old turkic letter T2.png|20px]] || T¹ ||{{IPA|/t/}}||T²|| {{IPA|/t/}}
+| [[Image:Old turkic letter T1.png|20px]] || [[Image:Old turkic letter T2.png|20px]] || Т¹ ||{{IPA|/t/}}||Т²|| {{IPA|/t/}}
 |- align="center"
-| [[Image:Old turkic letter Y1.png|20px]] || [[Image:Old turkic letter Y2.png|20px]] || Y¹ ||{{IPA|/ʤ/}} ||Y²|| {{IPA|/ʤ/}}
+| [[Image:Old turkic letter Y1.png|20px]] || [[Image:Old turkic letter Y2.png|20px]] || Й¹ ||/j/ ||Й²|| /j/
 |- align="center"
-| только с (¹) — Q<br />только с (²) — K || [[Image:Old turkic letter Q.png|20px]] || [[Image:Old turkic letter K.png|20px]] || Q ||{{IPA|/q/}} || K|| {{IPA|/k/}}
+| чүгле (¹) — Қ биле<br />чүгле (²) — К биле || [[Image:Old turkic letter Q.png|20px]] || [[Image:Old turkic letter K.png|20px]] || Қ ||{{IPA|/q/}} || К|| {{IPA|/k/}}
 |- align="center"
-| rowspan="6" |с любыми<br />гласными|| colspan="2" |[[Image:Old turkic letter CH.png|20px]] || colspan="2" | -Ç || colspan="2" |{{IPA|/ʧ/}}
+| rowspan="6" |шупту ажык 
+үннер биле
+| colspan="2" |[[Image:Old turkic letter CH.png|20px]] || colspan="2" | -Ч || colspan="2" |{{IPA|/ʧ/}}
 |- align="center"
-| colspan="2" | [[Image:Old Turkic letter M.svg|20px]] || colspan="2"  | -M|| colspan="2" | {{IPA|/m/}}	
+| colspan="2" | [[Image:Old Turkic letter M.svg|20px]] || colspan="2"  | -М|| colspan="2" | {{IPA|/m/}}	
 |- align="center"
-| colspan="2" | [[Image:Old turkic letter P.png|20px]] || colspan="2"  | -P|| colspan="2" | {{IPA|/p/}}	
+| colspan="2" | [[Image:Old turkic letter P.png|20px]] || colspan="2"  | -П|| colspan="2" | {{IPA|/p/}}	
 |- align="center"
-| colspan="2" | [[Image:Old turkic letter SH.png|20px]] || colspan="2"  | -Ş || colspan="2" |{{IPA|/ʃ/}}	
+| colspan="2" | [[Image:Old turkic letter SH.png|20px]] || colspan="2"  | -Ш || colspan="2" |{{IPA|/ʃ/}}	
 |- align="center"
-| colspan="2" | [[Image:Old turkic letter Z.png|20px]] || colspan="2"  | -Z || colspan="2" |{{IPA|/z/}}	
+| colspan="2" | [[Image:Old turkic letter Z.png|20px]] || colspan="2"  | -З || colspan="2" |{{IPA|/z/}}	
 |- align="center"
-| colspan="2" | [[Image:Old turkic letter NG.png|20px]] || colspan="2"  | -NG || colspan="2" |{{IPA|/ŋ/}}
+| colspan="2" | [[Image:Old turkic letter NG.png|20px]] || colspan="2"  | -Ң || colspan="2" |{{IPA|/ŋ/}}
 |- align="center"
-| rowspan="7" |сочетания || rowspan="3" | + гласный || colspan="2"|[[Image:Old turkic letter ICH.png|20px]] || colspan="2" | IÇ, ÇI, Ç || colspan="2" |{{IPA|/iʧ/}}, {{IPA|/ʧi/}}, {{IPA|/ʧ/}}
+| rowspan="7" |катышкан 
+үннер 
+| rowspan="3" | + ажык 
+үннер биле 
+| colspan="2" |[[Image:Old turkic letter ICH.png|20px]] || colspan="2" | ИЧ, ЧИ, Ч || colspan="2" |{{IPA|/iʧ/}}, {{IPA|/ʧi/}}, {{IPA|/ʧ/}}
 |- align="center"
-| colspan="2" | [[Image:Old turkic letter IQ.png|20px]] || colspan="2" | IQ, QI, Q|| colspan="2" | {{IPA|/ɯq/}}, {{IPA|/qɯ/}}, {{IPA|/q/}}
+| colspan="2" | [[Image:Old turkic letter IQ.png|20px]] || colspan="2" | ЫҚ, ҚЫ, Қ|| colspan="2" | {{IPA|/ɯq/}}, {{IPA|/qɯ/}}, {{IPA|/q/}}
 |- align="center"
-| [[Image:Old turkic letter OQ.png|20px]] || [[Image:Old turkic letter UK.png|20px]] ||OQ, UQ,<br />QO, QU, Q||{{IPA|/oq/}}, {{IPA|/uq/}},<br />{{IPA|/qo/}}, {{IPA|/qu/}}, {{IPA|/q/}}||ÖK, ÜK,<br />KÖ, KÜ, K||{{IPA|/øk/}}, {{IPA|/yk/}},<br />{{IPA|/kø/}}, {{IPA|/ky/}}, {{IPA|/k/}}
+| [[Image:Old turkic letter OQ.png|20px]] || [[Image:Old turkic letter UK.png|20px]] ||ОҚ, УҚ,<br />ҚО, ҚУ, Қ||{{IPA|/oq/}}, {{IPA|/uq/}},<br />{{IPA|/qo/}}, {{IPA|/qu/}}, {{IPA|/q/}}||ӨК, ҮК,<br />КӨ, КҮ, К||{{IPA|/øk/}}, {{IPA|/yk/}},<br />{{IPA|/kø/}}, {{IPA|/ky/}}, {{IPA|/k/}}
 |- align="center"
-| rowspan="4" |+ согласный ||colspan="2"  | [[Image:Old turkic letter NCH.png|20px]] || colspan="2" | -NÇ|| colspan="2" | {{IPA|/nʧ/}}		
+| rowspan="4" | + ажык эвес
+үннер биле 
+| colspan="2" | [[Image:Old turkic letter NCH.png|20px]] || colspan="2" | -НЧ|| colspan="2" | {{IPA|/nʧ/}}		
 |- align="center"
-| colspan="2" |[[Image:Old turkic letter NY.png|20px]] || colspan="2" | -NY || colspan="2" |{{IPA|/nʤ/}}
+| colspan="2" |[[Image:Old turkic letter NY.png|20px]] || colspan="2" | -НДЖ || colspan="2" |{{IPA|/nʤ/}}
 |- align="center"
-| colspan="2" |[[Image:Old turkic letter LT.png|20px]] || colspan="2" | -LT|| colspan="2" | {{IPA|/lt/}}, {{IPA|/ld/}} 
+| colspan="2" |[[Image:Old turkic letter LT.png|20px]] || colspan="2" | -ЛТ, -ЛД|| colspan="2" | {{IPA|/lt/}}, {{IPA|/ld/}} 
 |- align="center"
-| colspan="2" |[[Image:Old turkic letter NT.png|20px]] || colspan="2" | -NT || colspan="2" |{{IPA|/nt/}}, {{IPA|/nd/}}
+| colspan="2" |[[Image:Old turkic letter NT.png|20px]] || colspan="2" | -НТ, -НД || colspan="2" |{{IPA|/nt/}}, {{IPA|/nd/}}
 |- align="center"
-| colspan="3" | тыллары араарар бэлиэ || colspan="2" | [[Image:Old turkic letter SEP.png|20px]] || colspan="4"  |суох	
+| colspan="3" | сөс аңгылакчызы || colspan="2" | [[Image:Old turkic letter SEP.png|20px]] || colspan="4"  |чок	
 |- align="center"
-| colspan="9" |(-) — тыл кэннигэр эрэ суруллаллар 
+| colspan="9" |(-) — чүгле сөс төнчүзүнде ажыглаттынар
+— чамдык таварылгаларда Ч, ДЖ кылдыр база номчуп, бижип болур 
 |}
 
 
