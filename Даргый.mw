@@ -1,6 +1,25 @@
 {{Таксон
+| name              = Даргый
+| regnum            = Амытаннар
+| image file        = Common Teal (Anas crecca) near Hodal, Haryana W IMG 6512.jpg
+| image title       = Эр
+| image descr       = Эр даргый
 | parent            = Anas
 | rang              = Хевир
+| latin             = Anas crecca
+| author            = ([[Linnaeus]], [[1758]])
+| syn               = 
+| typus             = 
+| children          = 
+| range map         = Anas crecca distribution map.png
+| range legend      = 
+{{легенда|#00FF00|<small>Уялаар ареалы</small>}}
+{{легенда|#0075FF|<small>Көшкелер</small>}}
+{{легенда|#007100|<small>Бүгү чыл дургузунда</small>}}
+| iucnstatus = LC
+| wikispecies = Anas crecca
+| commons = Category:Anas crecca
+| iucn = 160031027
 }}
 [[File:Anas crecca (male).JPG|thumb|Эр даргый]]
 [[File:Anas crecca distribution map.png|thumb|400px|Даргыйның турар черлери. Чырык ногаан өң - уяланыр черлер, көк өң - кыштаар черлер, кара ногаан өң - бүдүн чыл тургузунда турар черлер]]
