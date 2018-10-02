@@ -4,4 +4,68 @@ Image=[[File:Cyrillic letter Zhe - uppercase and lowercase.svg|100px|Cyrillic le
 
 '''Ж, ж''' - [[Тыва дыл|Тыва дылдың]] [[кириллица|кириллицазында]] 8-ки үжүү. Тус үнү [ʒ] деп демдеглээр.
 
+== Кодтар таблицазы ==
+{| class="standard"
+ ! [[Кодировка]]
+ ! Регистр
+ ! 10-наар<br> код
+ ! 16-лаар<br> код
+ ! Сестээр<br> код
+ ! Ийилээр код
+ |-
+ | rowspan="2" | [[Юникод]]
+ | Эге үжүк
+ | style="text-align:right;" | 1046
+ | style="text-align:right;" | 0416
+ | style="text-align:right;" | 002026
+ | style="text-align:right;" | 00000100 00010110
+ |-
+ | Биче үжүк
+ | style="text-align:right;" | 1078
+ | style="text-align:right;" | 0436
+ | style="text-align:right;" | 002066
+ | style="text-align:right;" | 00000100 00110110
+ |-
+ | rowspan="2" | [[ISO 8859-5]]
+ | Эге үжүк
+ | style="text-align:right;" | 182
+ | style="text-align:right;" | B6
+ | style="text-align:right;" | 266
+ | style="text-align:right;" | 10110110
+ |-
+ | Биче үжүк
+ | style="text-align:right;" | 214
+ | style="text-align:right;" | D6
+ | style="text-align:right;" | 326
+ | style="text-align:right;" | 11010110
+ |-
+ | rowspan="2" | [[KOI 8]]
+ | Улуг үжүк
+ | style="text-align:right;" | 246
+ | style="text-align:right;" | F6
+ | style="text-align:right;" | 366
+ | style="text-align:right;" | 11110110
+ |-
+ | Биче үжүк
+ | style="text-align:right;" | 214
+ | style="text-align:right;" | D6
+ | style="text-align:right;" | 326
+ | style="text-align:right;" | 11010110
+ |-
+ | rowspan=2 | [[Windows 1251]]
+ | Улуг үжүк
+ | style="text-align:right;" | 198
+ | style="text-align:right;" | C6
+ | style="text-align:right;" | 306
+ | style="text-align:right;" | 11000110
+ |-
+ | Биче үжүк
+ | style="text-align:right;" | 230
+ | style="text-align:right;" | E6
+ | style="text-align:right;" | 346
+ | style="text-align:right;" | 11100110
+ |}
+
+[[HTML]] кодта '''Ж''' деп эге үжүктү дараазында арга-биле бижип болур <code>&amp;#1046;</code> азы <code>&amp;#x416;</code>, а '''ж''' бичезин — <code>&amp;#1078;</code> азы <code>&amp;#x436;</code> кылдыр.
+
 [[Аңгылал:Үжүк]]
