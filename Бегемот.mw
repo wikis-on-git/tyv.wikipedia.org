@@ -1,4 +1,30 @@
 {{Таксон
+| name              = 
+| regnum            = Амытаннар
+| image file = Prazsky hroch.jpg
+| image title = Бөдүүн бегемот
+| image descr = [[Прагада зоопарк|Прагада зоопаркта]] кыс бөдүүн бегемот төлү-биле
+| parent            = Hippopotamus
+| rang              = Хевир
+| latin             = Hippopotamus amphibius
+| author            = ([[Linnaeus]], [[1758]])
+| syn               = 
+| typus =
+| children name = Адакы хевирлери
+| children =
+* {{bt|Hippopotamus amphibius amphibius|(Linnaeus, 1758)}}
+* {{bt|Hippopotamus amphibius capensis|Desmoulins, 1825}}
+* {{bt|Hippopotamus amphibius kiboko|Heller, 1914}}
+* {{bt|Hippopotamus amphibius tschadensis|Schwarz, 1914}}
+* {{bt|Hippopotamus amphibius constrictus|Miller 1910}}
+| range map = Hippo distribution.gif
+| range map caption =
+| range map width =
+| range legend = <small>{{Легенда|#00820A|Амгы үеде нептерээн чери}}</small><small>{{Легенда|#FF0000|Ооң мурнунда нептерээн чери}}</small>
+| iucnstatus = VU
+| wikispecies = Hippopotamus amphibius
+| commons = Category:Hippopotamus amphibius
+| iucn = 10103
 }}
 [[File:Hippo memphis.jpg|thumb|Бегемот зоопаркта]]
 [[File:Hippo distribution.gif|thumb|Африкада бегемоттуң хуваалдазы: кызыл - баштай чурттар чери, ногаан - амгы үеде]]
