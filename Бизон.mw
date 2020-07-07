@@ -1,4 +1,26 @@
-{{Таксон}}
+{{Таксон
+ | name              = Бизон
+ | regnum            = Амытаннар
+ | image file        = American bison k5680-1.jpg
+ | image title       = Американ бизон
+ | image descr       = 
+ | parent            = Bison
+ | rang              = Хевир
+ | latin             = Bison bison
+ | author            = <br>[[Linnaeus]], 1758
+ | syn               = 
+* {{btname|Bison americanus}}
+* ''Bos bison''<ref>Castello J. R. 2016. [https://books.google.com.ua/books?id=KVwzCwAAQBAJ&pg=PA620 Bovids of the World: Antelopes, Gazelles, Cattle, Goats, Sheep, and Relatives]. — Princeton University Press. — Pp. 620—623. — 664 p. — ISBN 978-0-691-16717-6</ref>
+ | children name     = 
+ | children          = 
+ | range map         = 
+ | range map caption = 
+ | range legend      = 
+ | iucnstatus        = NT
+ | wikispecies       = Bison bison
+ | iucn              = 2815
+ }}
+
 '''Бизон''' – Соңгу Америка диптиң дүктүгүр дириг буга амытаны.
 
 == Биология ==
